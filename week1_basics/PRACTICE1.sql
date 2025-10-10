@@ -1,0 +1,6 @@
+-- retrieve each customers name, country and score.
+SELECT
+	first_name,
+	country,
+	score
+From customers 
